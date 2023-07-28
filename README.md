@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-rajesh-smp" alt="its-rajesh-smp" /></a> </p>
 
-- 🌱 I’m currently learning Backend **Node.js | Express.js | SQL | NOSQL | MONGODB**
+- 🌱 I’m currently learning Backend **Node.js | Express.js | SQL | NOSQL**
 
 - 👨‍💻 All of my projects are available at [https://rajeshsmp.netlify.app/](https://rajeshsmp.netlify.app/)
 
