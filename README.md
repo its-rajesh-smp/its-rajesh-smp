@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rajesh Singha Mahapatra</h1>
-<h3 align="center">I am a frontend developer and I like to code.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Singha+Mahapatra)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&repeat=false&width=435&height=80&lines=I+am+a++frontend+developer;and+right+now++I+am+learning+backend.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-rajesh-smp&label=Profile%20views&color=0e75b6&style=flat" alt="its-rajesh-smp" /> </p>
 
