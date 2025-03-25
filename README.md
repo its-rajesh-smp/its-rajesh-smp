@@ -1,7 +1,5 @@
 # Hi there, I'm Rajesh Singha Mahapatra! 👋
 
-![Rajesh's Banner](https://res.cloudinary.com/dtgoeupid/image/upload/v1742881766/Portfolio/dp.jpg)
-
 ## 🚀 About Me
 I'm a **Software Engineer & Mentor** who loves building, debugging, and fixing things. I transitioned from being a mechanical engineer to a full-stack developer, currently working as **SDE 1 at Sharpener**. I'm passionate about AI, web development, and automation.
 
