@@ -1,33 +1,80 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajesh+Singha+Mahapatra)](https://git.io/typing-svg)
+# Hi there, I'm Rajesh Singha Mahapatra! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&multiline=true&repeat=false&width=435&height=80&lines=I+am+a++frontend+developer;and+right+now++I+am+learning+backend.)](https://git.io/typing-svg)
+![Rajesh's Banner](https://res.cloudinary.com/dtgoeupid/image/upload/v1742881766/Portfolio/dp.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-rajesh-smp&label=Profile%20views&color=0e75b6&style=flat" alt="its-rajesh-smp" /> </p>
+## 🚀 About Me
+I'm a **Software Engineer & Mentor** who loves building, debugging, and fixing things. I transitioned from being a mechanical engineer to a full-stack developer, currently working as **SDE 1 at Sharpener**. I'm passionate about AI, web development, and automation.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-rajesh-smp" alt="its-rajesh-smp" /></a> </p>
+🌍 Based in **West Bengal, India**  
+📬 Contact me: **[its.rajeshsmp@gmail.com](mailto:its.rajeshsmp@gmail.com)**  
+💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [GitHub](https://github.com/its-rajesh-smp)
 
-- 🌱 I’m currently learning Backend **Node.js | Express.js | SQL | NOSQL**
+---
 
-- 👨‍💻 All of my projects are available at [https://rajeshsmp.netlify.app/](https://rajeshsmp.netlify.app/)
+## 🛠 Skills & Technologies
 
-- 📫 How to reach me **its.rajeshsmp@gmail.com**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L-dcIh7J485o-FFa90A3EI90FsE_VqmU/view?usp=drive_link](https://drive.google.com/file/d/1L-dcIh7J485o-FFa90A3EI90FsE_VqmU/view?usp=drive_link)
+And many more...
 
-- ⚡ Fun fact **I will become Fullstack very soon 😏**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/its-rajesh-smp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-rajesh-smp" height="30" width="40" /></a>
-<a href="https://codesandbox.com/its_rajeshsmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="its_rajeshsmp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iam_rajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iam_rajesh" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🏢 [Sharpener](https://www.sharpener.tech/) - **SDE 1** *(March 2024 - Present)*
+- Creating AI agents for automating in-game tasks.
+- Implemented microservices architecture using RabbitMQ.
+- Developed core game mechanics, onboarding guides, and payment integrations.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-rajesh-smp&show_icons=true&locale=en&layout=compact" alt="its-rajesh-smp" /></p>
+### 🏢 [Sharpener](https://www.sharpener.tech/) - **SDE Intern** *(Sep 2023 - Feb 2024)*
+- Automated mock interview process, reduced costs by 60%.
+- Improved website performance from 55% to 85%.
+- Designed admin & student dashboards using Tailwind & Material UI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-rajesh-smp&show_icons=true&locale=en" alt="its-rajesh-smp" /></p>
+### 🏢 [Root and Leaves](https://rootandleaves.com/) - **React Native Intern** *(Aug 2023 - Sep 2023)*
+- Built 20+ mobile screens using React Native.
+- Integrated GraphQL APIs using Apollo Client.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-rajesh-smp&" alt="its-rajesh-smp" /></p>
+### 🏢 [Anand CY Limited](https://www.anandgroupindia.com/acymautomotive/) - **Mechanical Engineer Intern** *(Dec 2021 - May 2022)*
+- Worked on CNC programming for automobile parts.
+
+---
+
+## 🏗️ Projects
+
+### 🔹 [message-broker-util](https://www.npmjs.com/package/message-broker-util)
+🚀 A TypeScript package for RabbitMQ-based message publishing, consuming, and RPC request-response communication.  
+**Tech Stack:** Node.js, TypeScript, RabbitMQ, amqplib  
+
+### 🔹 [ProfilePad](https://github.com/its-rajesh-smp?tab=repositories&q=profilepad&type=&language=&sort=)
+🛠️ A portfolio website builder with customizable templates & SEO optimization.  
+**Tech Stack:** React, Tailwind CSS, Firebase, MongoDB, Prisma  
+
+### 🔹 [BlinkIt Clone](https://www.youtube.com/watch?v=wCWGeTGMYWg)
+🛒 A functional clone of BlinkIt.com with cart, payment, order tracking & invoice generation.  
+**Tech Stack:** React, Redux, Node.js, Express, MySQL, Razorpay  
+
+### 🔹 [TrackyFy](https://trackyfi.netlify.app/)
+💰 A personal finance tracker with Google Auth & categorized expense charts.  
+**Tech Stack:** React, Firebase, Redux, SCSS  
+
+---
+
+## 📫 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/)  
+📧 [Email](mailto:its.rajeshsmp@gmail.com)  
+🐙 [GitHub](https://github.com/its-rajesh-smp)  
+🚀 [Portfolio](https://dillion.io)  
+
+Let's connect and build something amazing together! 😃
