@@ -5,8 +5,9 @@ I'm a **Software Engineer & Mentor** who loves building, debugging, and fixing t
 
 🌍 Based in **West Bengal, India**  
 📬 Contact me: **[its.rajeshsmp@gmail.com](mailto:its.rajeshsmp@gmail.com)**  
-💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [GitHub](https://github.com/its-rajesh-smp)
 👦 Portfolio: **[www.itsrajesh.online](https://www.itsrajesh.online)**  
+💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [GitHub](https://github.com/its-rajesh-smp)
+
 
 ---
 
