@@ -100,14 +100,6 @@ A personal finance tracker with Google Auth, transaction CRUD, filtering, catego
 
 ---
 
-## GitHub Stats
-
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-rajesh-smp&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-rajesh-smp&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## Connect
 
 I'm always happy to talk about full-stack engineering, backend systems, AI agents, databases, and production architecture.
