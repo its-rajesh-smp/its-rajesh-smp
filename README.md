@@ -1,80 +1,115 @@
-# Hi there, I'm Rajesh Singha Mahapatra! 👋
+# Hi, I'm Rajesh Singha Mahapatra
 
-## 🚀 About Me
-I'm a **Software Engineer & Mentor** who loves building, debugging, and fixing things. I transitioned from being a mechanical engineer to a full-stack developer, currently working as **SDE 1 at Sharpener**. I'm passionate about AI, web development, and automation.
+Full Stack Developer at [VAll](https://vallindia.com/) building AI-first SaaS products, backend systems, and production infrastructure.
 
-🌍 Based in **West Bengal, India**  
-📬 Contact me: **[its.rajeshsmp@gmail.com](mailto:its.rajeshsmp@gmail.com)**  
-👦 Portfolio: **[www.itsrajeshsmp.online](https://www.itsrajeshsmp.online)**  
-💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [GitHub](https://github.com/its-rajesh-smp)
+I moved from mechanical engineering into software development in 2022, and I now work across the stack with React, Next.js, Node.js, NestJS, PostgreSQL, AWS, Docker, and agentic AI systems.
 
+[Portfolio](https://www.itsrajeshsmp.online) | [LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [Email](mailto:its.rajeshsmp@gmail.com) | [Medium](https://medium.com/@its.rajeshsmp)
 
 ---
 
-## 🛠 Skills & Technologies
+## What I'm Building
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-
-And many more...
+- Agentic AI platforms for NGOs, including multi-agent workflows, RAG, pgvector, memory systems, and MCP tools.
+- Backend systems around payments, event booking, async queues, webhook recovery, distributed locking, and production migrations.
+- Full-stack product workflows with React, Next.js, Tailwind CSS, shadcn/ui, NestJS, PostgreSQL, and AWS.
+- Engineering practices around CI, integration testing with Testcontainers, code reviews, and mentoring engineers.
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🏢 [Sharpener](https://www.sharpener.tech/) - **SDE 1** *(March 2024 - Present)*
-- Creating AI agents for automating in-game tasks.
-- Implemented microservices architecture using RabbitMQ.
-- Developed core game mechanics, onboarding guides, and payment integrations.
+### [VAll](https://vallindia.com/) - Full Stack Developer
 
-### 🏢 [Sharpener](https://www.sharpener.tech/) - **SDE Intern** *(Sep 2023 - Feb 2024)*
-- Automated mock interview process, reduced costs by 60%.
-- Improved website performance from 55% to 85%.
-- Designed admin & student dashboards using Tailwind & Material UI.
+`Jun 2025 - Present`
 
-### 🏢 [Root and Leaves](https://rootandleaves.com/) - **React Native Intern** *(Aug 2023 - Sep 2023)*
-- Built 20+ mobile screens using React Native.
-- Integrated GraphQL APIs using Apollo Client.
+- Building **QuestCraftAI** from scratch, an agentic AI platform serving **40+ NGOs**, using a **3-agent architecture**, **RAG**, **pgvector**, and **OpenAI Agent SDK**.
+- Created and deployed a custom **MCP server on ECS**, exposing tools over VAllIndia's data and powering AI agents and an OpenAI-based opportunity recommendation chatbot.
+- Designed event booking infrastructure using **Razorpay webhooks**, **SQS**, **Lambda**, and **DLQ-based recovery** to handle failed webhook events and prevent duplicate bookings.
+- Shipped the **BYOQ collaboration module**, enabling users to create quests, invite participants, and review team submissions.
+- Implemented integration testing from scratch using **Testcontainers** and **Jest**, covering **40+ APIs** in CI.
+- Migrated data infrastructure from **DynamoDB to PostgreSQL**, leading API v2 development and production migration with minimal downtime.
 
-### 🏢 [Anand CY Limited](https://www.anandgroupindia.com/acymautomotive/) - **Mechanical Engineer Intern** *(Dec 2021 - May 2022)*
-- Worked on CNC programming for automobile parts.
+### [Sharpener](https://www.sharpener.tech/) - SDE 1
 
----
+`Mar 2024 - Jun 2025`
 
-## 🏗️ Projects
+- Built **Snapit AI**, an AI-powered resume analysis platform using React, Tailwind CSS, NestJS, PostgreSQL, and Gemini API.
+- Prototyped a multilingual AI assistant for conversation support, doubt resolution, and mock interviews using Google TTS, Gemini, and STT systems.
+- Built an in-house onboarding and product guidance system with **Shepherd.js**, saving approximately **$900 annually** in subscription costs.
+- Integrated **Razorpay** with SnapitAI monthly plans and webhook-based real-time payment updates.
+- Owned feature delivery, smoke testing, and final code reviews for production features.
 
-### 🔹 [message-broker-util](https://www.npmjs.com/package/message-broker-util)
-🚀 A TypeScript package for RabbitMQ-based message publishing, consuming, and RPC request-response communication.  
-**Tech Stack:** Node.js, TypeScript, RabbitMQ, amqplib  
+### [Sharpener](https://www.sharpener.tech/) - SDE Intern
 
-### 🔹 [ProfilePad](https://github.com/its-rajesh-smp?tab=repositories&q=profilepad&type=&language=&sort=)
-🛠️ A portfolio website builder with customizable templates & SEO optimization.  
-**Tech Stack:** React, Tailwind CSS, Firebase, MongoDB, Prisma  
+`Sep 2023 - Feb 2024`
 
-### 🔹 [BlinkIt Clone](https://www.youtube.com/watch?v=wCWGeTGMYWg)
-🛒 A functional clone of BlinkIt.com with cart, payment, order tracking & invoice generation.  
-**Tech Stack:** React, Redux, Node.js, Express, MySQL, Razorpay  
+- Automated the mock interview appointment flow by migrating from Zoom to Google Meet using Google API, cron workflows, auto-scheduling, meeting links, and recording uploads.
+- Improved landing page performance from **55% to 85%** with Cloudinary CDN, lazy loading, and cleanup of unused code/packages.
+- Re-designed the admin and student dashboard across **31 pages** using Tailwind CSS and Material UI.
 
-### 🔹 [TrackyFy](https://trackyfi.netlify.app/)
-💰 A personal finance tracker with Google Auth & categorized expense charts.  
-**Tech Stack:** React, Firebase, Redux, SCSS  
+> Some of my Sharpener work was done through a separate company GitHub account: [rajesh-sharpener contribution overview](https://github.com/rajesh-sharpener?tab=overview&from=2024-12-01&to=2024-12-31).
 
 ---
 
-## 📫 Connect with Me
+## Tech Stack
 
-💼 [LinkedIn](https://www.linkedin.com/in/rajeshsmp/)  
-📧 [Email](mailto:its.rajeshsmp@gmail.com)  
-🐙 [GitHub](https://github.com/its-rajesh-smp)  
-🚀 [Portfolio](https://www.itsrajesh.online)  
+**Languages:** TypeScript, JavaScript, HTML, CSS, SCSS  
+**Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, TanStack Query, Material UI  
+**Backend:** Node.js, NestJS, Express, Prisma, Sequelize  
+**Databases:** PostgreSQL, Firebase, Redis, MySQL, MongoDB  
+**AWS & DevOps:** EC2, ECS, ECR, S3, SQS, Lambda, Docker, GitHub Actions, Nginx, Pulumi  
+**AI:** MCP, RAG, LangChain, OpenAI API, Gemini API, OpenAI Agent SDK, Prompt Engineering  
+**Testing:** Jest, Testcontainers, Playwright
 
-Let's connect and build something amazing together! 😃
+---
+
+## Featured Projects
+
+### [ProfilePad](https://github.com/its-rajesh-smp/profilepad-new)
+
+A portfolio website builder with customizable templates, real-time editing, project showcases, social links, and SEO optimization.
+
+`React` `Tailwind CSS` `Firebase` `Node.js` `Express` `MongoDB` `Prisma`
+
+### [Attendly](https://attendly.itsrajesh.online)
+
+An event discovery and community engagement platform for browsing curated events, RSVP flows, authentication, event management, and attendee participation.
+
+`React` `Node.js` `Tailwind CSS` `PostgreSQL` `Prisma` `Express`
+
+### [BlinkIt Clone](https://www.youtube.com/watch?v=wCWGeTGMYWg)
+
+A functional BlinkIt-style application with authentication, cart management, order processing, address selection, order tracking, invoices, and payments.
+
+`React` `Redux Toolkit` `Node.js` `Express` `MySQL` `Sequelize` `Razorpay`
+
+### [TrackyFy](https://trackyfi.netlify.app/)
+
+A personal finance tracker with Google Auth, transaction CRUD, filtering, categorized charts, downloadable reports, and VIP features.
+
+`React` `Firebase` `Redux` `SCSS`
+
+---
+
+## Writing
+
+- [Practical DB Indexing: 8sec to 80ms on 8 Million Rows](https://medium.com/@its.rajeshsmp/practical-db-indexing-8sec-to-80ms-on-8-million-rows-c859cc220537)
+- [A distributed locking mechanism](https://medium.com/@its.rajeshsmp/create-a-distributed-locking-mechanism-6612b95fc8b7)
+- [Sharding and Partitioning](https://medium.com/@its.rajeshsmp/sharding-and-partationing-161d489b8c3e)
+
+---
+
+## GitHub Stats
+
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-rajesh-smp&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-rajesh-smp&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## Connect
+
+I'm always happy to talk about full-stack engineering, backend systems, AI agents, databases, and production architecture.
+
+[LinkedIn](https://www.linkedin.com/in/rajeshsmp/) | [Portfolio](https://www.itsrajeshsmp.online) | [Email](mailto:its.rajeshsmp@gmail.com)
