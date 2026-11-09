@@ -85,11 +85,11 @@ A macOS menu-bar app that lets you select text in any app, press a hotkey, and f
 
 `Electron` `React` `TypeScript` `Swift` `Tailwind CSS` `OpenAI`
 
-### [ProfilePad](https://github.com/its-rajesh-smp/profilepad-new)
+### [FitX](https://github.com/its-rajesh-smp/fitx)
 
-A portfolio website builder with customizable templates, real-time editing, project showcases, social links, and SEO optimization.
+An AI personal trainer in a chat. Describe your goal, equipment, and time, and get a weekly workout plan you can change just by asking, with exercise tracking, video guides, and long-term memory of your preferences.
 
-`React` `Tailwind CSS` `Firebase` `Node.js` `Express` `MongoDB` `Prisma`
+`React` `TypeScript` `Tailwind CSS` `Express` `PostgreSQL` `OpenAI Agents SDK`
 
 ### [BlinkIt Clone](https://www.youtube.com/watch?v=wCWGeTGMYWg)
 
