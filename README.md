@@ -79,17 +79,17 @@ I moved from mechanical engineering into software development in 2022, and I now
 
 ## Featured Projects
 
+### [PhaseType](https://phasetype.vercel.app)
+
+A macOS menu-bar app that lets you select text in any app, press a hotkey, and fix or rewrite it with AI, then pastes the result right back over your selection. Streams results, supports follow-up refinements, writing presets, and asking questions about files.
+
+`Electron` `React` `TypeScript` `Swift` `Tailwind CSS` `OpenAI`
+
 ### [ProfilePad](https://github.com/its-rajesh-smp/profilepad-new)
 
 A portfolio website builder with customizable templates, real-time editing, project showcases, social links, and SEO optimization.
 
 `React` `Tailwind CSS` `Firebase` `Node.js` `Express` `MongoDB` `Prisma`
-
-### [Attendly](https://attendly.itsrajesh.online)
-
-An event discovery and community engagement platform for browsing curated events, RSVP flows, authentication, event management, and attendee participation.
-
-`React` `Node.js` `Tailwind CSS` `PostgreSQL` `Prisma` `Express`
 
 ### [BlinkIt Clone](https://www.youtube.com/watch?v=wCWGeTGMYWg)
 
